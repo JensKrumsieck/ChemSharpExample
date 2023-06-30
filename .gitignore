@@ -1,5 +1,7 @@
 .idea/
 packages/
+obj/
+[Bb]in/
 
 # This .gitignore file should be placed at the root of your Unity project directory
 #
